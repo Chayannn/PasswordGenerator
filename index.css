@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@200&family=Karla:wght@400;800&display=swap");
+
+body {
+  margin: 0;
+}
+h3 {
+  color: #6b7280;
+  font-family: "Inter", sans-serif;
+  padding-bottom: 1.5rem;
+}
+button {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ecfdf5;
+  font-size: 14px;
+  background: #10b981;
+  padding: 10px 20px 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+hr {
+  margin: 35px 0px;
+}
+.container {
+  background-color: #1c1c1c;
+  padding-top: 3rem;
+  width: auto;
+  padding-bottom: 2rem;
+}
+
+.title{
+    padding-top: 2rem;
+    font-family: 'Karla', sans-serif;
+}
+.box {
+  width: 70%;
+  margin: auto;
+  background: #ecfdf5;
+  padding: 0rem 2rem 2rem 2rem;
+}
+.heading {
+  font-family: "Karla", sans-serif;
+}
+.green-heading {
+  color: #10b981;
+}
+
+#password-box{
+    display: flex;
+    flex-direction: row;
+}
+
+#passWord-1 {
+    background: #273549;
+    color: #5DEF92;
+    border-radius: 5px;
+    margin-right: 25px;
+    width: 10rem;
+    height: 2rem;
+    text-align: center;
+    margin-bottom: 4rem;
+}
+
+#passWord-2 {
+    background: #273549;
+    color: #5DEF92;
+    border-radius: 5px;
+    width: 10rem;
+    height: 2rem;
+    text-align: center;
+}
+
+
